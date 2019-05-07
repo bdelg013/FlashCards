@@ -6,6 +6,14 @@
 //  Copyright © 2018 brian delgado. All rights reserved.
 //
 
+// PROGRAMMER:  Brian Delgado
+// PANTHERID:   6058871
+// CLASS:       COP 465501
+// INSTRUCTOR:  Steve Luis ECS 282
+// ASSIGNMENT:  #1 Program
+// DUE:         Thursday 08/30/18
+//
+
 import UIKit
 
 @UIApplicationMain
@@ -14,7 +22,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
 
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         return true
     }
